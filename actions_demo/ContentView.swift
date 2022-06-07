@@ -12,6 +12,8 @@ struct ContentView: View {
         Text("Hello, world!")
             .padding()
     }
+
+    Make it uncompilable
 }
 
 struct ContentView_Previews: PreviewProvider {
